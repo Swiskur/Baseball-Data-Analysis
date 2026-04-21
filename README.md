@@ -78,9 +78,6 @@ I created 10 different SQL queries that all serve a purpose of player analysis s
 - I hope to expand the project to featuring more advanced metrics such as WAR, wRC+, as well as expanding on more seasons and adding predictive modeling.
 
 
-## 📊 Dashboard Preview
-
-![Dashboard](Screenshots/Screenshot 2026-04-20 132514.png)
 ---
 
 ## Author
